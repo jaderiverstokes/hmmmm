@@ -45,4 +45,16 @@ literature review
 - exchanges linked through registry
 - erc20->erc20 using ETH intermediary
 
+
+minimalist design
+20% overhead compared to erc20 token t
+ransfer 🤯 
+
+```python 
+createExchange(token: address) 
+getExchange(token: address) 
+getToken(exchange: address) 
+```
+[eth\_pool * token\_pool = invariant](https://latex.codecogs.com/svg.image?eth\_pool&space;*&space;token\_pool&space;=&space;invariant)
+
 [sample code](https://github.com/jaderiverstokes/bitmix/blob/main/src/index.js#L261)
