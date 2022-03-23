@@ -10,5 +10,5 @@ honestly mindless market maker memorandum
 
 <img width="384" alt="image" src="https://user-images.githubusercontent.com/9206704/159773793-ab580fa5-4326-4c01-b7d8-d84bf5b2252f.png">
 
-![\Large x \times \Large y = \Large K](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
+![eqn](https://latex.codecogs.com/svg.image?x*y=k)
 
