@@ -114,5 +114,10 @@ large trades cause more price slippage
 arbitrage creates price discovery
 
 ## erc20->erc20 example
+- tokenToEth * ethToToken = tokenToToken
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/9206704/159801732-34277db4-e92d-414a-bd04-af1554d42053.png">
+
+
+- ![amountMinted = totalAmount * \frac{ethDeposited}{ethPool}](https://latex.codecogs.com/svg.image?amountMinted&space;=&space;totalAmount&space;*&space;\frac{ethDeposited}{ethPool})
 
 [sample code](https://github.com/jaderiverstokes/bitmix/blob/main/src/index.js#L261)
