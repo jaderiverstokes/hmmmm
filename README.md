@@ -32,7 +32,7 @@ literature review
 - prices set automagically
 
 ### constant product:
-![x*y=k](https://latex.codecogs.com/svg.image?x*y=k)
+- ![x*y=k](https://latex.codecogs.com/svg.image?x*y=k)
 - keep 'relative equilibrium'
 - network of liquidity providers
 - exchange for transaction fees
