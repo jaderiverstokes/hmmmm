@@ -36,5 +36,13 @@ literature review
 - keep 'relative equilibrium'
 - network of liquidity providers
 - exchange for transaction fees
+- [formal spec](https://github.com/runtimeverification/verified-smart-contracts/blob/uniswap/uniswap/x-y-k.pdf)
+
+### factory + registry
+
+- deploys 1 exchange for each erc20
+- exchange holds ETH & erc20 reserves
+- exchanges linked through registry
+- erc20->erc20 using ETH intermediary
 
 [sample code](https://github.com/jaderiverstokes/bitmix/blob/main/src/index.js#L261)
