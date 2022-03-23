@@ -55,6 +55,6 @@ createExchange(token: address)
 getExchange(token: address) 
 getToken(exchange: address) 
 ```
-![eth{\textunderscore}pool * token{\textunderscore}pool = invariant](https://latex.codecogs.com/svg.image?eth\_pool&space;*&space;token\_pool&space;=&space;invariant)
+![eth{\textunderscore}pool * token{\textunderscore}pool = invariant](https://latex.codecogs.com/svg.image?eth{\textunderscore}pool&space;*&space;token{\textunderscore}pool&space;=&space;invariant)
 
 [sample code](https://github.com/jaderiverstokes/bitmix/blob/main/src/index.js#L261)
